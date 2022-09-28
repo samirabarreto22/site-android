@@ -48,16 +48,21 @@ main{
 main > h1 {
     font-family: 'android';
     padding-bottom: 20px;
+    color: #025940;
+    
  
 }
 main > h2 {
     font-family: 'android';
-    padding: 20px 0px;
+    padding: 20px 5x 0px;
+    color: #025940;
+    background-color: #03a64a33;
 }
 main > p{
     font-family: sans-serif;
     text-align: justify;
     text-indent: 30px;
+    padding: 20px 0px;
 
 
 }
