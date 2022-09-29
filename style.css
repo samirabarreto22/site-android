@@ -38,7 +38,7 @@ main{
    
     margin: auto;
     background-color: white;
-    max-width: 800px;
+    max-width: 850px;
     padding: 20px;
     border-radius: 0px 0px 10px 10px;
     box-shadow: 3px 3px 5px 1px rgba(0, 0, 0, 0.5);
@@ -46,21 +46,21 @@ main{
  
     
 }
-main > h1 {
+main > article > h1 {
     font-family: 'android';
     padding-bottom: 20px;
     color: #025940;
     
  
 }
-main > h2 {
+main > article > h2 {
     font-family: 'android';
     padding: 20px 5x 0px;
     color: #025940;
     background-color: #03a64a33;
     text-indent: 10px;
 }
-main > p{
+main > article > p{
     font-family: sans-serif;
     text-align: justify;
     text-indent: 30px;
@@ -68,11 +68,7 @@ main > p{
 
 
 }
-main picture> img {
-    padding: 20px 0px;
-    
-}
-main > img{
+main > article >  img{
     padding: 20px 0px;
     display: block;
     margin: auto;
